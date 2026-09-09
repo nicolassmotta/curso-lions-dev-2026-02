@@ -7,9 +7,23 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Nicolas Motta",
+  "author": {
+    "name": "Nicolas Motta",
+    "url": "https://github.com/nicolassmotta"
+  },
+  "contributors": [
+    {
+      "name": "Jean Ediel de Mello",
+      "email": "mello.jeanediel@hotmail.com",
+      "url": "https://github.com/mello-jean"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "prompt-sync": "^4.2.0"
+  },
+  "engines": {
+    "node": "24.18.0",
+    "npm": "11.16.0"
   }
 }

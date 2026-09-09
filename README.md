@@ -35,7 +35,7 @@ Dentro de `resolucao_exercicios_slides/` os arquivos são agrupados por assunto 
 | # | Módulo | Slides | Listas |
 | - | ------ | ------ | ------ |
 | 01 | **Introdução à Programação** | ✅ Atividade prática de terminal | ✅ 2 listas resolvidas |
-| 02 | **Fundamentos de Programação** | ✅ Até a atividade de Objetos (pág. 140) | ⏳ Ainda não aplicadas |
+| 02 | **Fundamentos de Programação** | ✅ Até as atividade de Laços de repetição (pág. 158) | ⏳ Ainda não aplicadas |
 
 ### Módulo 01 — Introdução à Programação
 
