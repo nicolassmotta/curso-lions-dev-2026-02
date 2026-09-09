@@ -62,6 +62,7 @@ As 13 resoluções estão indexadas por página do slide em [`modulo02/resolucao
 | Estruturas de decisão | 105 a 108 | `estruturas_decisao/` |
 | Arrays | 128 a 130 | `arrays/` |
 | Objetos | 140 | `objetos/` |
+| Estruturas de repetição | 154 a 158 | `estruturas_repeticao/` |
 
 ---
 
