@@ -35,7 +35,7 @@ Dentro de `resolucao_exercicios_slides/` os arquivos são agrupados por assunto 
 | # | Módulo | Slides | Listas |
 | - | ------ | ------ | ------ |
 | 01 | **Introdução à Programação** | ✅ Atividade prática de terminal | ✅ 2 listas resolvidas |
-| 02 | **Fundamentos de Programação** | ✅ Até a atividade de Objetos (pág. 140) | ⏳ Ainda não aplicadas |
+| 02 | **Fundamentos de Programação** | ✅ Até as atividade de Laços de repetição (pág. 158) | ⏳ Ainda não aplicadas |
 
 ### Módulo 01 — Introdução à Programação
 
@@ -62,6 +62,7 @@ As 13 resoluções estão indexadas por página do slide em [`modulo02/resolucao
 | Estruturas de decisão | 105 a 108 | `estruturas_decisao/` |
 | Arrays | 128 a 130 | `arrays/` |
 | Objetos | 140 | `objetos/` |
+| Estruturas de repetição | 154 a 158 | `estruturas_repeticao/` |
 
 ---
 
