@@ -7,7 +7,7 @@ import calcularMedia from "./media.js";
 
 const prompt = PromptSync();
 
-let opcao = -1;
+let opcao = -1; // Variável para armazenar a opção do usuário
 let num = -1;
 
 do {
