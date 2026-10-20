@@ -4,6 +4,7 @@ import numeros from "./numeros.js";
 import adicionarNumero from "./adicionar.js";
 import removerNumero from "./remover.js";
 import calcularMedia from "./media.js";
+import calcularMediana from "./mediana.js";
 
 const prompt = PromptSync();
 
@@ -36,7 +37,9 @@ do {
         case 4:
             console.log(`A média é: ${calcularMedia()}`);
             break;
-        case 5: // calcular a mediana
+        case 5: 
+            //calcularMediana();
+            console.log(`A mediana é: ${calcularMediana()}`);
             break;
         case 0:
             console.log("Fechando programa...");
