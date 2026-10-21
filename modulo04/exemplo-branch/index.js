@@ -1,1 +1,1 @@
-console.log("Causando um conflito!");
+console.log("Bora");
