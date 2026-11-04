@@ -59,7 +59,9 @@ while (opcao != 0) {
             let telefoneDigitadoAtualizado = "";
             do {
                 telefoneDigitadoAtualizado = prompt("Qual o telefone atualizado do usuário? (caso não deseja mudar, pressione ENTER) R: ");
-                telefonesAtualizado.push(telefoneDigitadoAtualizado);
+                if (telefoneDigitadoAtualizado != "") {
+                    telefonesAtualizado.push(telefoneDigitadoAtualizado);
+                }
                 respostaAtualizado = prompt("Você deseja inserir mais um telefone? (s/n)");
             } while (respostaAtualizado == "s");
 
