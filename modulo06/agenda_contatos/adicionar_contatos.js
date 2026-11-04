@@ -19,6 +19,8 @@ function adicionarContato(contatos, novoContato) {
     if (contatos.length > 0) {
         let ultimoContato = contatos[contatos.length - 1];
         novoContato.id = ultimoContato.id + 1;
+    } else {
+        novoContato.id = 1;
     }
     // novoContato.id = identificador;
     // identificador++;
