@@ -55,7 +55,7 @@ function menuRemover() {
 }
 
 do {
-    mainMenu();  
+    mainMenu();
     opcao = parseInt(prompt("Escolha uma opção: "));
 
     switch (opcao) {
