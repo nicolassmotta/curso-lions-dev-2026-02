@@ -12,12 +12,16 @@ const contatoSchema = new mongoose.Schema(
             required: [true, "O e-mail é obrigatório."],
             trim: true,
             lowercase: true,
-            unique: true
+            unique: [true, "O e-mail já foi utilizado."]
         },
         telefones: [{
             type: String,
             trim: true
-        }]
+        }],
+        excluidoEm: {
+            type: Date,
+            default: null
+        }
     },
     { timestamps: true }
 );
